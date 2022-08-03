@@ -1,3 +1,10 @@
+/*-------------------------------------------------------
+|														|
+|	BubbleTea basics tutorial creates a command-line	|
+|	shopping list which is navigable with arrow keys	|
+|														|
+-------------------------------------------------------*/
+
 package main
 
 import (
